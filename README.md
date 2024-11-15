@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/muhammed-saheen/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [1670-patients-with-a-condition](https://github.com/muhammed-saheen/leetcode/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/muhammed-saheen/leetcode/tree/master/1811-fix-names-in-a-table) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/muhammed-saheen/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/muhammed-saheen/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
