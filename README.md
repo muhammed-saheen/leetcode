@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/muhammed-saheen/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0610-triangle-judgement](https://github.com/muhammed-saheen/leetcode/tree/master/0610-triangle-judgement) |
+| [1161-project-employees-i](https://github.com/muhammed-saheen/leetcode/tree/master/1161-project-employees-i) |
 | [1670-patients-with-a-condition](https://github.com/muhammed-saheen/leetcode/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/muhammed-saheen/leetcode/tree/master/1811-fix-names-in-a-table) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/muhammed-saheen/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
