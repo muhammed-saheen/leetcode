@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/muhammed-saheen/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/muhammed-saheen/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/muhammed-saheen/leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/muhammed-saheen/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/muhammed-saheen/leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/muhammed-saheen/leetcode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
