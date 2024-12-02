@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/muhammed-saheen/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/muhammed-saheen/leetcode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/muhammed-saheen/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/muhammed-saheen/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/muhammed-saheen/leetcode/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/muhammed-saheen/leetcode/tree/master/0268-missing-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/muhammed-saheen/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/muhammed-saheen/leetcode/tree/master/0058-length-of-last-word) |
 ## String Matching
 |  |
@@ -64,9 +66,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/muhammed-saheen/leetcode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/muhammed-saheen/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/muhammed-saheen/leetcode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/muhammed-saheen/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
