@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/muhammed-saheen/leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/muhammed-saheen/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/muhammed-saheen/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/muhammed-saheen/leetcode/tree/master/0069-sqrtx) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/muhammed-saheen/leetcode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/muhammed-saheen/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/muhammed-saheen/leetcode/tree/master/0058-length-of-last-word) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/muhammed-saheen/leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/muhammed-saheen/leetcode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/muhammed-saheen/leetcode/tree/master/0268-missing-number) |
 | [0720-longest-word-in-dictionary](https://github.com/muhammed-saheen/leetcode/tree/master/0720-longest-word-in-dictionary) |
