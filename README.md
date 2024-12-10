@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/muhammed-saheen/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/muhammed-saheen/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/muhammed-saheen/leetcode/tree/master/0268-missing-number) |
 ## Recursion
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/muhammed-saheen/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/muhammed-saheen/leetcode/tree/master/0191-number-of-1-bits) |
 ## Stack
 |  |
 | ------- |
