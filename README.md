@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/muhammed-saheen/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [2232-adding-spaces-to-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2502-sort-the-people](https://github.com/muhammed-saheen/leetcode/tree/master/2502-sort-the-people) |
+| [3379-score-of-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/3379-score-of-a-string) |
 ## String Matching
 |  |
 | ------- |
