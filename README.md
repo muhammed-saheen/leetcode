@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/muhammed-saheen/leetcode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/muhammed-saheen/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/muhammed-saheen/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/muhammed-saheen/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/muhammed-saheen/leetcode/tree/master/0069-sqrtx) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/muhammed-saheen/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/muhammed-saheen/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/muhammed-saheen/leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/muhammed-saheen/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/muhammed-saheen/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/muhammed-saheen/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/muhammed-saheen/leetcode/tree/master/0118-pascals-triangle) |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/muhammed-saheen/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/muhammed-saheen/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
