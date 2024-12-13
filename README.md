@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/muhammed-saheen/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/muhammed-saheen/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/muhammed-saheen/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/muhammed-saheen/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/muhammed-saheen/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/muhammed-saheen/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/muhammed-saheen/leetcode/tree/master/0217-contains-duplicate) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/muhammed-saheen/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/muhammed-saheen/leetcode/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/muhammed-saheen/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/muhammed-saheen/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/muhammed-saheen/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/muhammed-saheen/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/muhammed-saheen/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/muhammed-saheen/leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/muhammed-saheen/leetcode/tree/master/0539-minimum-time-difference) |
