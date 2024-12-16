@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/muhammed-saheen/leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/muhammed-saheen/leetcode/tree/master/0539-minimum-time-difference) |
 | [2481-strictly-palindromic-number](https://github.com/muhammed-saheen/leetcode/tree/master/2481-strictly-palindromic-number) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/muhammed-saheen/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/muhammed-saheen/leetcode/tree/master/2502-sort-the-people) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/muhammed-saheen/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/muhammed-saheen/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/muhammed-saheen/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/muhammed-saheen/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/muhammed-saheen/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/muhammed-saheen/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/muhammed-saheen/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/muhammed-saheen/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/muhammed-saheen/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
