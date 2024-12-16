@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/muhammed-saheen/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/muhammed-saheen/leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/muhammed-saheen/leetcode/tree/master/0539-minimum-time-difference) |
+| [2383-add-two-integers](https://github.com/muhammed-saheen/leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/muhammed-saheen/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/muhammed-saheen/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/muhammed-saheen/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
