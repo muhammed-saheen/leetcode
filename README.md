@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/muhammed-saheen/leetcode/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/muhammed-saheen/leetcode/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/muhammed-saheen/leetcode/tree/master/0610-triangle-judgement) |
+| [0620-not-boring-movies](https://github.com/muhammed-saheen/leetcode/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/muhammed-saheen/leetcode/tree/master/1161-project-employees-i) |
 | [1670-patients-with-a-condition](https://github.com/muhammed-saheen/leetcode/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/muhammed-saheen/leetcode/tree/master/1811-fix-names-in-a-table) |
