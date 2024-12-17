@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2502-sort-the-people](https://github.com/muhammed-saheen/leetcode/tree/master/2502-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/3379-score-of-a-string) |
+| [3636-check-balanced-string](https://github.com/muhammed-saheen/leetcode/tree/master/3636-check-balanced-string) |
 ## String Matching
 |  |
 | ------- |
