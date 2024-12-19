@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/muhammed-saheen/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muhammed-saheen/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/muhammed-saheen/leetcode/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/muhammed-saheen/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/muhammed-saheen/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/muhammed-saheen/leetcode/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/muhammed-saheen/leetcode/tree/master/0463-island-perimeter) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/muhammed-saheen/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/muhammed-saheen/leetcode/tree/master/0058-length-of-last-word) |
+| [0179-largest-number](https://github.com/muhammed-saheen/leetcode/tree/master/0179-largest-number) |
 | [0500-keyboard-row](https://github.com/muhammed-saheen/leetcode/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/muhammed-saheen/leetcode/tree/master/0539-minimum-time-difference) |
 | [0720-longest-word-in-dictionary](https://github.com/muhammed-saheen/leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/muhammed-saheen/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/muhammed-saheen/leetcode/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/muhammed-saheen/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/muhammed-saheen/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/muhammed-saheen/leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/muhammed-saheen/leetcode/tree/master/0539-minimum-time-difference) |
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/muhammed-saheen/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/muhammed-saheen/leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
