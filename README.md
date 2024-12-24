@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/muhammed-saheen/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/muhammed-saheen/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/muhammed-saheen/leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/muhammed-saheen/leetcode/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/muhammed-saheen/leetcode/tree/master/0539-minimum-time-difference) |
 | [1635-number-of-good-pairs](https://github.com/muhammed-saheen/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/muhammed-saheen/leetcode/tree/master/2383-add-two-integers) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/muhammed-saheen/leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/muhammed-saheen/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/muhammed-saheen/leetcode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/muhammed-saheen/leetcode/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/muhammed-saheen/leetcode/tree/master/0539-minimum-time-difference) |
 | [0720-longest-word-in-dictionary](https://github.com/muhammed-saheen/leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/muhammed-saheen/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/muhammed-saheen/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/muhammed-saheen/leetcode/tree/master/0682-baseball-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/muhammed-saheen/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/2232-adding-spaces-to-a-string) |
