@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/muhammed-saheen/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/muhammed-saheen/leetcode/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/muhammed-saheen/leetcode/tree/master/0539-minimum-time-difference) |
+| [1448-maximum-69-number](https://github.com/muhammed-saheen/leetcode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/muhammed-saheen/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/muhammed-saheen/leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/muhammed-saheen/leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -269,4 +270,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/muhammed-saheen/leetcode/tree/master/0179-largest-number) |
+| [1448-maximum-69-number](https://github.com/muhammed-saheen/leetcode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
