@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/muhammed-saheen/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1635-number-of-good-pairs](https://github.com/muhammed-saheen/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/muhammed-saheen/leetcode/tree/master/1651-shuffle-string) |
+| [1899-count-items-matching-a-rule](https://github.com/muhammed-saheen/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/muhammed-saheen/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/muhammed-saheen/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/muhammed-saheen/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/muhammed-saheen/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/muhammed-saheen/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1651-shuffle-string](https://github.com/muhammed-saheen/leetcode/tree/master/1651-shuffle-string) |
+| [1899-count-items-matching-a-rule](https://github.com/muhammed-saheen/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/muhammed-saheen/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/muhammed-saheen/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/muhammed-saheen/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
