@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/muhammed-saheen/leetcode/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/muhammed-saheen/leetcode/tree/master/0539-minimum-time-difference) |
 | [0720-longest-word-in-dictionary](https://github.com/muhammed-saheen/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0742-to-lower-case](https://github.com/muhammed-saheen/leetcode/tree/master/0742-to-lower-case) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/muhammed-saheen/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1651-shuffle-string](https://github.com/muhammed-saheen/leetcode/tree/master/1651-shuffle-string) |
 | [1899-count-items-matching-a-rule](https://github.com/muhammed-saheen/leetcode/tree/master/1899-count-items-matching-a-rule) |
