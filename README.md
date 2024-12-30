@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/muhammed-saheen/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1635-number-of-good-pairs](https://github.com/muhammed-saheen/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/muhammed-saheen/leetcode/tree/master/1651-shuffle-string) |
+| [1833-find-the-highest-altitude](https://github.com/muhammed-saheen/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/muhammed-saheen/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/muhammed-saheen/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/muhammed-saheen/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -283,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/muhammed-saheen/leetcode/tree/master/2998-count-symmetric-integers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/muhammed-saheen/leetcode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
