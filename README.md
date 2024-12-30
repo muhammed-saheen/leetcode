@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/muhammed-saheen/leetcode/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/muhammed-saheen/leetcode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/muhammed-saheen/leetcode/tree/master/0620-not-boring-movies) |
+| [0627-swap-salary](https://github.com/muhammed-saheen/leetcode/tree/master/0627-swap-salary) |
 | [1161-project-employees-i](https://github.com/muhammed-saheen/leetcode/tree/master/1161-project-employees-i) |
 | [1625-group-sold-products-by-the-date](https://github.com/muhammed-saheen/leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/muhammed-saheen/leetcode/tree/master/1670-patients-with-a-condition) |
