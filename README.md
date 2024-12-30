@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/muhammed-saheen/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2401-count-asterisks](https://github.com/muhammed-saheen/leetcode/tree/master/2401-count-asterisks) |
 | [2502-sort-the-people](https://github.com/muhammed-saheen/leetcode/tree/master/2502-sort-the-people) |
+| [2886-faulty-keyboard](https://github.com/muhammed-saheen/leetcode/tree/master/2886-faulty-keyboard) |
 | [3379-score-of-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/3379-score-of-a-string) |
 | [3636-check-balanced-string](https://github.com/muhammed-saheen/leetcode/tree/master/3636-check-balanced-string) |
 ## String Matching
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/muhammed-saheen/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/muhammed-saheen/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2886-faulty-keyboard](https://github.com/muhammed-saheen/leetcode/tree/master/2886-faulty-keyboard) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/muhammed-saheen/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Trie
 |  |
