@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/muhammed-saheen/leetcode/tree/master/2502-sort-the-people) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/muhammed-saheen/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/muhammed-saheen/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/muhammed-saheen/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/muhammed-saheen/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/muhammed-saheen/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/muhammed-saheen/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/muhammed-saheen/leetcode/tree/master/2502-sort-the-people) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/muhammed-saheen/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/muhammed-saheen/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/muhammed-saheen/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
