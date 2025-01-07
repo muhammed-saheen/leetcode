@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-group-sold-products-by-the-date](https://github.com/muhammed-saheen/leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/muhammed-saheen/leetcode/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/muhammed-saheen/leetcode/tree/master/1811-fix-names-in-a-table) |
+| [1837-daily-leads-and-partners](https://github.com/muhammed-saheen/leetcode/tree/master/1837-daily-leads-and-partners) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/muhammed-saheen/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/muhammed-saheen/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
