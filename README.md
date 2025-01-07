@@ -303,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/muhammed-saheen/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/muhammed-saheen/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/muhammed-saheen/leetcode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
