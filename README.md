@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/muhammed-saheen/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/muhammed-saheen/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2442-number-of-arithmetic-triplets](https://github.com/muhammed-saheen/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/muhammed-saheen/leetcode/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/muhammed-saheen/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/muhammed-saheen/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/muhammed-saheen/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/muhammed-saheen/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2442-number-of-arithmetic-triplets](https://github.com/muhammed-saheen/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/muhammed-saheen/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/muhammed-saheen/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/muhammed-saheen/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/muhammed-saheen/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2442-number-of-arithmetic-triplets](https://github.com/muhammed-saheen/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/muhammed-saheen/leetcode/tree/master/2502-sort-the-people) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/muhammed-saheen/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/muhammed-saheen/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/muhammed-saheen/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2998-count-symmetric-integers](https://github.com/muhammed-saheen/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Prefix Sum
 |  |
