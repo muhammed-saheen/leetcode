@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/muhammed-saheen/leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/muhammed-saheen/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/muhammed-saheen/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/muhammed-saheen/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/muhammed-saheen/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/muhammed-saheen/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammed-saheen/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/muhammed-saheen/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/muhammed-saheen/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/muhammed-saheen/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/muhammed-saheen/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/muhammed-saheen/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammed-saheen/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/muhammed-saheen/leetcode/tree/master/0496-next-greater-element-i) |
@@ -323,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/muhammed-saheen/leetcode/tree/master/1137-height-checker) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/muhammed-saheen/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
