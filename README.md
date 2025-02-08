@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/muhammed-saheen/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/muhammed-saheen/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2886-faulty-keyboard](https://github.com/muhammed-saheen/leetcode/tree/master/2886-faulty-keyboard) |
+| [2887-sort-vowels-in-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/muhammed-saheen/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3379-score-of-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/3379-score-of-a-string) |
 | [3636-check-balanced-string](https://github.com/muhammed-saheen/leetcode/tree/master/3636-check-balanced-string) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/muhammed-saheen/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2502-sort-the-people](https://github.com/muhammed-saheen/leetcode/tree/master/2502-sort-the-people) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/muhammed-saheen/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2887-sort-vowels-in-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/muhammed-saheen/leetcode/tree/master/3321-type-of-triangle) |
 ## Simulation
 |  |
