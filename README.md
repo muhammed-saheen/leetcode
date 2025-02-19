@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/muhammed-saheen/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2401-count-asterisks](https://github.com/muhammed-saheen/leetcode/tree/master/2401-count-asterisks) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/muhammed-saheen/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/muhammed-saheen/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/muhammed-saheen/leetcode/tree/master/2502-sort-the-people) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/muhammed-saheen/leetcode/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/muhammed-saheen/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/muhammed-saheen/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/muhammed-saheen/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/muhammed-saheen/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Brainteaser
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/muhammed-saheen/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/muhammed-saheen/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/muhammed-saheen/leetcode/tree/master/0768-partition-labels) |
 | [1448-maximum-69-number](https://github.com/muhammed-saheen/leetcode/tree/master/1448-maximum-69-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/muhammed-saheen/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/muhammed-saheen/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2487-optimal-partition-of-string](https://github.com/muhammed-saheen/leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Enumeration
 |  |
