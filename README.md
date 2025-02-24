@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/muhammed-saheen/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/muhammed-saheen/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/muhammed-saheen/leetcode/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/muhammed-saheen/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/muhammed-saheen/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0463-island-perimeter](https://github.com/muhammed-saheen/leetcode/tree/master/0463-island-perimeter) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/muhammed-saheen/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/muhammed-saheen/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/muhammed-saheen/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Design
 |  |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/muhammed-saheen/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/muhammed-saheen/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Data Stream
 |  |
