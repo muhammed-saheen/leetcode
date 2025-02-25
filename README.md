@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/muhammed-saheen/leetcode/tree/master/0539-minimum-time-difference) |
 | [1448-maximum-69-number](https://github.com/muhammed-saheen/leetcode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/muhammed-saheen/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/muhammed-saheen/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/muhammed-saheen/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/muhammed-saheen/leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/muhammed-saheen/leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/muhammed-saheen/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/muhammed-saheen/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/muhammed-saheen/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/muhammed-saheen/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/muhammed-saheen/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/muhammed-saheen/leetcode/tree/master/1651-shuffle-string) |
 | [1833-find-the-highest-altitude](https://github.com/muhammed-saheen/leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/muhammed-saheen/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muhammed-saheen/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/muhammed-saheen/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/muhammed-saheen/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/muhammed-saheen/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/muhammed-saheen/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/muhammed-saheen/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Graph
