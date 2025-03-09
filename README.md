@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/muhammed-saheen/leetcode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/muhammed-saheen/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/muhammed-saheen/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3483-alternating-groups-ii](https://github.com/muhammed-saheen/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/muhammed-saheen/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/muhammed-saheen/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/muhammed-saheen/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/muhammed-saheen/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/muhammed-saheen/leetcode/tree/master/3483-alternating-groups-ii) |
 ## Tree
 |  |
 | ------- |
