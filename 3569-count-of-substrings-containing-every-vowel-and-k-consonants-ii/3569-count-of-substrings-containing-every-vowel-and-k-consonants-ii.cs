@@ -11,7 +11,6 @@ public class Solution {
             prefix[i + 1] = prefix[i] + (vowelsSet.Contains(word[i]) ? 0 : 1);
         }
         
-        // Last occurrence for each vowel; initialize to -1 (not seen)
         Dictionary<char, int> lastOccurrence = new Dictionary<char, int>() {
             {'a', -1},
             {'e', -1},
