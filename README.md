@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/muhammed-saheen/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/muhammed-saheen/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/muhammed-saheen/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3643-zero-array-transformation-ii](https://github.com/muhammed-saheen/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/muhammed-saheen/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/muhammed-saheen/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/muhammed-saheen/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/muhammed-saheen/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/muhammed-saheen/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/muhammed-saheen/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/muhammed-saheen/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3643-zero-array-transformation-ii](https://github.com/muhammed-saheen/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Graph
 |  |
 | ------- |
