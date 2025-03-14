@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/muhammed-saheen/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/muhammed-saheen/leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/muhammed-saheen/leetcode/tree/master/1137-height-checker) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/muhammed-saheen/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/muhammed-saheen/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/muhammed-saheen/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/muhammed-saheen/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/muhammed-saheen/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/muhammed-saheen/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammed-saheen/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/muhammed-saheen/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/muhammed-saheen/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/muhammed-saheen/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/muhammed-saheen/leetcode/tree/master/3643-zero-array-transformation-ii) |
