@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/muhammed-saheen/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/muhammed-saheen/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/muhammed-saheen/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/muhammed-saheen/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/muhammed-saheen/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/muhammed-saheen/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/muhammed-saheen/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/muhammed-saheen/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/muhammed-saheen/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
